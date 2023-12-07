@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="title1">Sudoku Song</string>
+    <string name="title2">Ukulele Song</string>
+    <string name="title3">Piano Song</string>
+    <string name="title4">Drum Solo</string>
+    <string name="title5">Trumpet Song</string>
+    <string name="about_content"> This music app provides the ability to listen to a playlist of songs. The songs can be listened to by shuffling, looping, or both. </string>
+    <string name="about_title">About</string>
+    <string name="settings_label">Settings</string>
+    <string name="about_label">About</string>
+    <string name="settings_shortcut">s</string>
+    <string name="looping_title">Looping</string>
+    <string name="looping_summary">The playlist will repeat once fully played</string>
+    <string name="shuffling_title">Shuffling</string>
+    <string name="shuffling_summary">The songs in the playlist will play in a random order and looping will be enabled</string>
+
+</resources>
